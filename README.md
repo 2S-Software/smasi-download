@@ -5,7 +5,7 @@ personal wiki](https://www.smasi.app).
 
 - **Releases**: pre-built Linux binaries (`.tar.gz` source archives and
   `.flatpak` bundles), published automatically by our CI pipeline. 
-  [Show Releases...](https://github.com/2S-Software/smasi-download/blob/main/releases)
+  [Show Releases...](https://github.com/2S-Software/smasi-download/releases)
 - **Screenshots**: images referenced by the app's Flathub metadata.
 
 The source code of smasi is proprietary and not hosted here - this repo exists
