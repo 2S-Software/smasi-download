@@ -6,7 +6,7 @@ personal wiki](https://www.smasi.app).
 ## Releases
 The latest versions of the smasi app are available for download as follows:
 - [Show Flatpak bundles](https://github.com/2S-Software/smasi-download/releases) 
-- [Show DEB-Files](https://github.com/2S-Software/smasi-download/tree/main/linux/deb)
+- [Download smasi_linux_amd64.deb](https://github.com/2S-Software/smasi-download/tree/main/linux/deb/smasi_linux_amd64.deb)
 
 The Linux version of the [smasi app](https://www.smasi.app) can be used for free and without any restrictions.
 
