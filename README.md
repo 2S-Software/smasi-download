@@ -26,6 +26,8 @@ If you prefer a manual installation, you can download the latest [DEB file](http
 ```
 sudo apt install ./smasi_linux_amd64.deb
 ```
+Please note: The command must be run from the same directory where the DEB file is located, and the file cannot be renamed!
+
 
 If necessary, you can delete the application along with all its settings and data:
 ```
