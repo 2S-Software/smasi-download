@@ -18,5 +18,19 @@ The source code of smasi is proprietary and not hosted here - this repo exists
 only to provide stable, versioned download URLs for packaging purposes
 (e.g. the [Flathub](https://flathub.org) submission for smasi).
 
+## Installing smasi.app
+
+### DEB File (manual)
+If you prefer a manual installation, you can download the latest [DEB file](https://github.com/2S-Software/smasi-download/tree/main/linux/deb/smasi_linux_amd64.deb) and then install it via the console:
+
+```
+sudo apt install ./smasi_linux_amd64.deb
+```
+
+If necessary, you can delete the application along with all its settings and data:
+```
+sudo apt purge smasi
+```
+
 ---
 https://www.smasi.app
