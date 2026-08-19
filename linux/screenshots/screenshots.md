@@ -1,3 +1,4 @@
 # Screenshots
 
-Size: 1000x700
+Size: 16:9
+(624×351 „pixel perfect", max. 1600×900)
