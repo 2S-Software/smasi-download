@@ -1,1 +1,13 @@
-
+[Desktop Entry]
+Name=smasi
+GenericName=smasi
+Comment=smasi - Your personal Wiki
+Comment[de]=smasi - Dein persönliches Wiki
+Exec=smasi
+TryExec=smasi
+Icon=com.smasisoftware.smasi
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Office;
+Keywords=smasi;wiki;
