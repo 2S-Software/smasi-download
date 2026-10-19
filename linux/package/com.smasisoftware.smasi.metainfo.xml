@@ -156,6 +156,22 @@
     </supports>
 
     <releases>
+        <release version="8.5.0" date="2026-10-19">
+    <description>
+        <ul>
+                    <li>Free and unrestricted Linux version available</li>
+                    <li>Duplicate collection</li>
+                    <li>You can also change the folder of a collection via its properties</li>
+                    <li>Various improvements and corrections</li>
+        </ul>
+        <ul xml:lang="de">
+                    <li>Kostenlose und uneingeschränkte Linux Version erhältlich</li>
+                    <li>Sammlungen duplizieren</li>
+                    <li>Ordner einer Sammlung kann auch über die Eigenschaften geändert werden</li>
+                    <li>Diverse Detailverbesserungen und Korrekturen</li>
+        </ul>
+    </description>
+</release>
         <release version="8.4.0" date="2026-09-24">
             <description>
                 <p>First Linux release.</p>
