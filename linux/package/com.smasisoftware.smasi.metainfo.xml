@@ -156,14 +156,14 @@
     </supports>
 
     <releases>
-        <release version="8.5.1" date="2026-11-05">
+        <release version="8.5.2" date="2026-11-07">
             <description>
                 <ul>
-                    <li>Free and unrestricted Linux version available</li>
+                    <li>Free and unrestricted Linux version available (DEB, FlatPak)</li>
                     <li>Duplicate collection</li>
                     <li>You can also change the folder of a collection via its properties</li>
                     <li>Various improvements and corrections</li>
-                    <li xml:lang="de">Kostenlose und uneingeschränkte Linux Version erhältlich</li>
+                    <li xml:lang="de">Kostenlose und uneingeschränkte Linux Version erhältlich (DEB, FlatPak)</li>
                     <li xml:lang="de">Sammlungen duplizieren</li>
                     <li xml:lang="de">Ordner einer Sammlung kann auch über die Eigenschaften geändert werden</li>
                     <li xml:lang="de">Diverse Detailverbesserungen und Korrekturen</li>
